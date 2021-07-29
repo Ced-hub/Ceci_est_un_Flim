@@ -1,3 +1,15 @@
 *{
-    color: black;
+    font-family: 'Special Elite', cursive;
+}
+
+main{
+    background-color: #272822;
+}
+
+.bg{
+    background-color: #de0000;
+}
+
+.btn{
+    color: white;
 }
